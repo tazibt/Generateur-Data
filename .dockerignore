@@ -1,0 +1,7 @@
+output/
+*.csv
+*.class
+.git
+.gitignore
+.vscode
+.idea
